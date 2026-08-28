@@ -6,3 +6,8 @@ def somma(a,b):
     return a+b
 
 print(somma(10,5))
+
+def moltiplica(a,b):
+    return a*b
+
+print(moltiplica(5,4))
